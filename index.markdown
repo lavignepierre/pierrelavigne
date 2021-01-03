@@ -18,7 +18,7 @@ margin: 0px 20px;
 <img alt = "Photo de profil." src="images/photo-pierre.jpg" alt="Example" width = "140"
 height = "140">
 <p>
-<a href ="http://www.cmap.polytechnique.fr"> Centre de Mathématiques Appliqués </a> (CMAP) <br>
+<a href ="http://www.cmap.polytechnique.fr"> Centre de Mathématiques Appliquées </a> (CMAP) <br>
   <a href ="https://www.ip-paris.fr"> Institut Polytechnique de Paris </a> (IPP), <a href ="https://portail.polytechnique.edu"> École Polytechnique </a> <br> Team
   <a href ="https://portail.polytechnique.edu/cmap/fr/recherche/commands"> COMMANDS </a> (CMAP-Inria) <br> <br>
   Route de Saclay, 91120 Palaiseau <br>
