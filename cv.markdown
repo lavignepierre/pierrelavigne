@@ -8,7 +8,7 @@ permalink: /cv/
 # Academics
 
 
-2018-: Phd student in the team [COMMANDS](https://portail.polytechnique.edu/cmap/fr/recherche/commands) under the supervision of [J. Frédéric Bonnans](http://www.cmap.polytechnique.fr/~bonnans/) and [Laurent Pfeiffer](http://www.cmapx.polytechnique.fr/~pfeiffer/) at [CMAP](http://www.cmap.polytechnique.fr). [Ecole Polytechnique](https://www.polytechnique.edu) and [IPP](https://www.ip-paris.fr). Doctoral school [EDMH](https://www.universite-paris-saclay.fr/ecoles-doctorales/ecole-doctorale-de-mathematiques-hadamard-edmh). <br> 
+2018-: Phd student in the team [COMMANDS](https://portail.polytechnique.edu/cmap/fr/recherche/commands) under the supervision of [J. Frédéric Bonnans](http://www.cmap.polytechnique.fr/~bonnans/) and [Laurent Pfeiffer](http://www.cmapx.polytechnique.fr/~pfeiffer/) at [CMAP](http://www.cmap.polytechnique.fr). [École Polytechnique](https://www.polytechnique.edu) and [IPP](https://www.ip-paris.fr). Doctoral school [EDMH](https://www.universite-paris-saclay.fr/ecoles-doctorales/ecole-doctorale-de-mathematiques-hadamard-edmh). <br> 
 Subject of the thesis : Some contributions to mean field game theory.
 
 2017-2018: Master of science in [Optimization](https://www.imo.universite-paris-saclay.fr/-optimization-) at [Paris-Saclay](https://www.universite-paris-saclay.fr).
@@ -21,7 +21,7 @@ Subject of the thesis : Some contributions to mean field game theory.
 
 # Professional experience
 
-2018: Discrete mean field games. Advisor: [J. Frédéric Bonnans](http://www.cmap.polytechnique.fr/~bonnans/). [COMMANDS](https://portail.polytechnique.edu/cmap/fr/recherche/commands) team, [Ecole Polytechnique](https://www.polytechnique.edu), 6 months.
+2018: Discrete mean field games. Advisor: [J. Frédéric Bonnans](http://www.cmap.polytechnique.fr/~bonnans/). [COMMANDS](https://portail.polytechnique.edu/cmap/fr/recherche/commands) team, [École Polytechnique](https://www.polytechnique.edu), 6 months.
 
 2017: Search engine, bias and ad-blockers. Advisor: [Alexandre de Cornière](https://www.tse-fr.eu/people/alexandre-de-corniere). [TSE](https://www.tse-fr.eu/fr), 3 months.
 
