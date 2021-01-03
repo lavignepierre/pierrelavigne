@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /maths/
+permalink: /research/
 ---
 
 * Some numerical aspects of MFGs. J. Frédéric Bonnans, Pierre Lavigne and Laurent Pfeiffer. In preparation.
