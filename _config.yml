@@ -22,8 +22,8 @@ title: Pierre Lavigne
 email: pierre.lavigne@inria.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Personnal website of Pierre Lavigne. Fields of interest : mean field games, convex optimization, numerical aspects.
-baseurl: "/pierrelavigne.gitlab.io" # the subpath of your site, e.g. /blog
-url: "https://pierrelavigne.gitlab.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/pierrelavigne" # the subpath of your site, e.g. /blog
+url: "https://lavignepierre.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username: pierre lavigne
 
