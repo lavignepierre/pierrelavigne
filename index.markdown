@@ -27,4 +27,4 @@ height = "140">
 </div>
 
 <br>
-I'm a Phd student at CMAP under the supervision of under the supervision of [J. Frédéric Bonnans](http://www.cmap.polytechnique.fr/~bonnans/) and [Laurent Pfeiffer](http://www.cmapx.polytechnique.fr/~pfeiffer/). I work on mean field games theory. Mean field games are used for modeling interactions among a large population of players. It takes the form of a forward-backward coupled system composed of a Hamilton-Jacobi-Bellman equation and a Kolmogorov equation. fake modif
+I'm a Phd student at CMAP under the supervision of under the supervision of [J. Frédéric Bonnans](http://www.cmap.polytechnique.fr/~bonnans/) and [Laurent Pfeiffer](http://www.cmapx.polytechnique.fr/~pfeiffer/). I work on mean field games theory. Mean field games are used for modeling interactions among a large population of players. It takes the form of a forward-backward coupled system composed of a Hamilton-Jacobi-Bellman equation and a Kolmogorov equation.
