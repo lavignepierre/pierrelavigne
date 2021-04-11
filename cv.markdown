@@ -8,7 +8,7 @@ permalink: /cv/
 # Academics
 
 
-2018-: Phd student in the team [COMMANDS](https://portail.polytechnique.edu/cmap/fr/recherche/commands) under the supervision of [J. Frédéric Bonnans](http://www.cmap.polytechnique.fr/~bonnans/) and [Laurent Pfeiffer](http://www.cmapx.polytechnique.fr/~pfeiffer/) at [CMAP](http://www.cmap.polytechnique.fr). [ École Polytechnique](https://www.polytechnique.edu) and [IPP](https://www.ip-paris.fr). Doctoral school [EDMH](https://www.universite-paris-saclay.fr/ecoles-doctorales/ecole-doctorale-de-mathematiques-hadamard-edmh). <br> 
+2018-: Phd student in the team [COMMANDS](https://portail.polytechnique.edu/cmap/fr/recherche/commands) under the supervision of [J. Frédéric Bonnans](http://www.cmap.polytechnique.fr/~bonnans/) and [Laurent Pfeiffer](http://www.cmapx.polytechnique.fr/~pfeiffer/) at [CMAP](http://www.cmap.polytechnique.fr). [ École Polytechnique](https://www.polytechnique.edu) and [IPP](https://www.ip-paris.fr). Doctoral school [EDMH](https://www.universite-paris-saclay.fr/ecoles-doctorales/ecole-doctorale-de-mathematiques-hadamard-edmh). <br>
 Subject of the thesis : Some contributions to mean field game theory.
 
 2017-2018: Master of science in [Optimization](https://www.imo.universite-paris-saclay.fr/-optimization-) at [Paris-Saclay](https://www.universite-paris-saclay.fr).
@@ -29,13 +29,20 @@ Subject of the thesis : Some contributions to mean field game theory.
 
 # Associative
 
-2020: Fellow of the ecologic transition commission of [CMAP](http://www.cmap.polytechnique.fr). Co-organizer of the first congress of young researchers in applied mathematics ([cjc-ma](https://cjc-ma2021.github.io)).
+2020: Fellow of the ecologic transition commission of [CMAP](http://www.cmap.polytechnique.fr).
+Co-organizer and member of the scientific council of the first young researchers congress in applied mathematics ([cjc-ma](https://cjc-ma2021.github.io)).
 
 2019: Fellow of [0.6 Planet](https://www.06planet.org) Project.
 
 2016: Fellow and co-founder of the office of sports (BDS), [TSE](https://www.tse-fr.eu/fr).
 
 2012-2014: Fellow of the student association Le cercle Eiffel, Dijon.
+
+# Supervision
+
+Bastien Evra : “Habitat et sobriété, une mesure de l’empreinte écologique du ménage français". Sciences for environmental challenges accompagnement project directed by [R. Plougonven](http://www.lmd.ens.fr/plougon/), 3rd year of Ecole Polytechnique.
+
+Ines Abdessalem and Anastasia Milllevoye : “Développement de maisons containers en France à l’horizon 2030". Prospective mission for [0.6 Planet](https://www.06planet.org) project. Master [MTI](https://master-mti.fr) hosted by Mines- Paritech, Dauphine University and INSTN.
 
 # Miscellaneous
 
