@@ -3,6 +3,9 @@ layout: page
 title: Research
 permalink: /research/
 ---
+
+* Generalized conditional gradient for potential mean field games. J. Frédéric Bonnans, Pierre Lavigne and Laurent Pfeiffer. In preparation.
+
 __Preprints :__
 
 * Discrete potential mean field games. J. Frédéric Bonnans, Pierre Lavigne and Laurent Pfeiffer. Available on [Arxiv](https://arxiv.org/abs/2106.07463) and [HAL](https://hal.inria.fr/hal-03260057), 2021.  [Code](https://lavignepierre.github.io/Potential-MFG/Introduction.html).
