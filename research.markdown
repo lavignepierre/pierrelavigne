@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-* Generalized conditional gradient for potential mean field games. J. Frédéric Bonnans, Pierre Lavigne and Laurent Pfeiffer. In preparation.
+* Generalized conditional gradient and learning in potential mean field games. J. Frédéric Bonnans, Pierre Lavigne and Laurent Pfeiffer. In preparation.
 
 __Preprints :__
 
