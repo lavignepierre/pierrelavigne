@@ -18,13 +18,20 @@ margin: 0px 20px;
 <img alt = "Photo de profil." src="images/photo-pierre.jpg" alt="Example" width = "140"
 height = "140">
 <p>
-<a href ="http://www.cmap.polytechnique.fr"> Centre de Mathématiques Appliquées </a> (CMAP) <br>
-  <a href ="https://www.ip-paris.fr"> Institut Polytechnique de Paris </a> (IPP), <a href ="https://portail.polytechnique.edu"> École Polytechnique </a> <br> Team
-  <a href ="https://portail.polytechnique.edu/cmap/fr/recherche/commands"> COMMANDS </a> (CMAP-Inria) <br> <br>
-  Route de Saclay, 91120 Palaiseau <br>
+<a href ="https://www.institutlouisbachelier.org"> Institut Louis Bachelier </a> (ILB) <br>
+  28 Place de la Bourse, 75002 Paris <br>
   France <br>
 </p>
 </div>
 
 <br>
-I'm a Phd student at CMAP under the supervision of [J. Frédéric Bonnans](http://www.cmap.polytechnique.fr/~bonnans/) and [Laurent Pfeiffer](https://laurentpfeiffer.gitlab.io/web/). I work on mean field games theory. Mean field games are used for modeling interactions among a large population of players. It takes the form of a forward-backward coupled system composed of a Hamilton-Jacobi-Bellman equation and a Fokker-Planck equation.
+
+I am a postdoctoral researcher at Institut Louis Bachelier. I work on mean field games theory and climate-finance.
+
+<br>
+
+Mathematical fields of interests: Mean field games and their numerical aspects, optimization, control theory.
+
+<br>
+
+Other fields: carbon and ecological footprint, design of sustainable systems, climate science and economics.

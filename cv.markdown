@@ -7,9 +7,10 @@ permalink: /cv/
 
 # Academics
 
+2021-: Post-doc position at [Institut Louis Bachelier](https://www.institutlouisbachelier.org) under the supervision of [Peter Tankov](https://sites.google.com/site/petertankov/). Subject : Mean field games and applications to climate-finance.
 
 2018-2021: Phd student in the team [COMMANDS](https://portail.polytechnique.edu/cmap/fr/recherche/commands) under the supervision of [J. Frédéric Bonnans](http://www.cmap.polytechnique.fr/~bonnans/) and [Laurent Pfeiffer](https://laurentpfeiffer.gitlab.io/web/) at [CMAP](http://www.cmap.polytechnique.fr). [ École Polytechnique](https://www.polytechnique.edu) and [IPP](https://www.ip-paris.fr). Doctoral school [EDMH](https://www.universite-paris-saclay.fr/ecoles-doctorales/ecole-doctorale-de-mathematiques-hadamard-edmh). <br>
-Subject of the thesis : Mean field games: numerical methods and case of risk-averse agents. <br>
+Thesis title : Mean field games: numerical methods and case of risk-averse agents. <br>
 Defense: 3 December 2021.
 
 2017-2018: Master of science in [Optimization](https://www.imo.universite-paris-saclay.fr/-optimization-) at [Paris-Saclay](https://www.universite-paris-saclay.fr).
