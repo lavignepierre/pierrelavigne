@@ -25,13 +25,12 @@ height = "140">
 </div>
 
 <br>
+<br>
 
 I am a postdoctoral researcher at Institut Louis Bachelier. I work on mean field games theory and climate-finance.
 
-<br>
 
-Mathematical fields of interests: Mean field games and their numerical aspects, optimization, control theory.
+__Mathematical fields of interests__: Mean field games and their numerical aspects, optimization, control theory.
 
-<br>
 
-Other fields: carbon and ecological footprint, design of sustainable systems, climate science and economics.
+__Other fields__: carbon and ecological footprint, design of sustainable systems, climate science and economics.
