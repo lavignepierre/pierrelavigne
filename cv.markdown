@@ -22,7 +22,7 @@ Defense: 3 December 2021.
 
 # Commitments
 
-2020: Fellow of the ecologic transition commission of [CMAP](http://www.cmap.polytechnique.fr). Realization of the 2019 carbon footprint of CMAP via the online tool [Labos1point5](https://labos1point5.org). Organization of a sustainable development day: see the [program](pdf-files/ProgrammeMatineeDD.pdf).
+2020: Fellow of the ecologic transition commission of [CMAP](http://www.cmap.polytechnique.fr). Realization of the 2019 carbon footprint of CMAP via the online tool [Labos1point5](https://labos1point5.org). Organization of a sustainable development day 9/12/2021: see the [program](pdf-files/ProgrammeMatineeDD.pdf).
 
 
 2020: Co-organizer and member of the scientific council of the first young researchers congress in applied mathematics ([cjc-ma](https://cjc-ma2021.github.io)).
@@ -39,7 +39,15 @@ Bastien Evra : “Habitat et sobriété, une mesure de l’empreinte écologi
 
 Ines Abdessalem and Anastasia Milllevoye : “Développement de maisons containers en France à l’horizon 2030". Prospective mission for [0.6Planet](https://www.06planet.org) project. Master [MTI](https://master-mti.fr) hosted by Mines- Paritech, Dauphine University and INSTN.
 
-# other professional experiences
+# Individual formation
+
+2022: Course "La Finance face au changement Climatique" by [Hugues Chenet](https://www.linkedin.com/in/hugueschenet/). [Stress test](http://www.cmap.polytechnique.fr/~stresstest/) chair, École polytechnique.
+
+2022: [Winter school](https://impt-biodiv.sciencesconf.org) of Institut des Mathématiques pour la Planète Terre: climate change and biodiversity. Orsay.
+
+2020: Climate change and energy transition. [Philippe Drobinski](https://sites.google.com/site/philippedrobinski/) and [Alexis Tantet](https://alexistantet.net/author/alexistantet/). MEC666, École polytechnique.
+
+# Other professional experiences
 
 2018: Discrete mean field games. Advisor: [J. Frédéric Bonnans](http://www.cmap.polytechnique.fr/~bonnans/). [COMMANDS](https://portail.polytechnique.edu/cmap/fr/recherche/commands) team, [École Polytechnique](https://www.polytechnique.edu), 6 months.
 
