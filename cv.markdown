@@ -43,7 +43,7 @@ Ines Abdessalem and Anastasia Milllevoye : “Développement de maisons contain
 
 2022: Course "La Finance face au changement Climatique" by [Hugues Chenet](https://www.linkedin.com/in/hugueschenet/). [Stress test](http://www.cmap.polytechnique.fr/~stresstest/) chair, École polytechnique.
 
-2022: [Winter school](https://impt-biodiv.sciencesconf.org) of Institut des Mathématiques pour la Planète Terre: climate change and biodiversity. Orsay.
+2022: [Winter school](https://impt-biodiv.sciencesconf.org) of [Institut des Mathématiques pour la Planète Terre](https://impt.math.cnrs.fr): climate change and biodiversity. Orsay.
 
 2020: Climate change and energy transition. [Philippe Drobinski](https://sites.google.com/site/philippedrobinski/) and [Alexis Tantet](https://alexistantet.net/author/alexistantet/). MEC666, École polytechnique.
 
