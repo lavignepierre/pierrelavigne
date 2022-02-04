@@ -10,7 +10,7 @@ permalink: /cv/
 
 2018-2021: Phd student in the team [COMMANDS](https://portail.polytechnique.edu/cmap/fr/recherche/commands) under the supervision of [J. Frédéric Bonnans](http://www.cmap.polytechnique.fr/~bonnans/) and [Laurent Pfeiffer](https://laurentpfeiffer.gitlab.io/web/) at [CMAP](http://www.cmap.polytechnique.fr). [ École Polytechnique](https://www.polytechnique.edu) and [IPP](https://www.ip-paris.fr). Doctoral school [EDMH](https://www.universite-paris-saclay.fr/ecoles-doctorales/ecole-doctorale-de-mathematiques-hadamard-edmh). <br>
 Thesis title : Mean field games: numerical methods and case of risk-averse agents. <br>
-Defense: 3 December 2021.
+Defense 3 December 2021. Manuscrit available on [HAL](https://tel.archives-ouvertes.fr/tel-03556749).
 
 2017-2018: Master of science in [Optimization](https://www.imo.universite-paris-saclay.fr/-optimization-) at [Paris-Saclay](https://www.universite-paris-saclay.fr).
 
@@ -41,9 +41,12 @@ Ines Abdessalem and Anastasia Milllevoye : “Développement de maisons contain
 
 # Individual formation
 
+
 2022: Course "La Finance face au changement Climatique" by [Hugues Chenet](https://www.linkedin.com/in/hugueschenet/). [Stress test](http://www.cmap.polytechnique.fr/~stresstest/) chair, École polytechnique.
 
+<!---
 2022: [Winter school](https://impt-biodiv.sciencesconf.org) of [Institut des Mathématiques pour la Planète Terre](https://impt.math.cnrs.fr): climate change and biodiversity. Orsay.
+-->
 
 2020: Climate change and energy transition. [Philippe Drobinski](https://sites.google.com/site/philippedrobinski/) and [Alexis Tantet](https://alexistantet.net/author/alexistantet/). MEC666, École polytechnique.
 

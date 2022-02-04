@@ -3,6 +3,11 @@ layout: page
 title: Events
 ---
 
+# Incoming events
+
+* March/April, [Fresque du climat](https://fresqueduclimat.org) at CMAP organized by the sustainable development commission.
+
+* March 21-22, 15-th Financial international [risk forum](https://www.risks-forum.org).
 
 # Past events
 
