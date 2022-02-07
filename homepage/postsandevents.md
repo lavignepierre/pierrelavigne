@@ -11,7 +11,7 @@ title: Events
 
 # Past events
 
-* December 9, 2021: Organization of a sustainable development day at CMAP: see the [program](pdf-files/ProgrammeMatineeDD.pdf). Scientific work presented. Main topics: mathematics for energy system, climate and green finance, biodiversity modeling. Also, the carbon footprint of the laboratory was presented.
+* December 9, 2021: Organization of a sustainable development day at CMAP: see the [program](pdf-files/ProgrammeMatineeDD.pdf). Scientific work presented. Main topics: mathematics for energy systems, climate and green finance, biodiversity modeling. Also, the carbon footprint of the laboratory was presented.
 
 
 * October 27-29, 2021: [Congrès des jeunes chercheurs en mathématiques appliqués](https://cjc-ma2021.github.io). Event in applied mathematics at École polytechnique (Palaiseau), organized by young researchers and supported by [SMAI](http://smai.emath.fr).
