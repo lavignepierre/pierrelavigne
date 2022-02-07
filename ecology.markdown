@@ -4,4 +4,4 @@ title: Ecology
 permalink: /Ecology/
 ---
 
-* My [carbon footprint]
+* {% include carbon-footprint.html %}
