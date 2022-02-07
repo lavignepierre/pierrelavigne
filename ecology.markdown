@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ecology
-permalink: /Ecology/
+title: Environment
+permalink: /Environment/
 ---
 
-* {% include carbon-footprint.html %}
+* My [carbon footprint](/Cf/)

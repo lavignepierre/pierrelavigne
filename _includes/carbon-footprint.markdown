@@ -10,7 +10,8 @@ Personal carbon footprint can be computed via free softwares.
 
 || [OCE My carbone Footprint](https://www.oce.global/animations/CarbonFootprint-final/footprint.html) | [Nos gestes climat](https://nosgestesclimat.fr)|
 |:---:|:---:|:---:|
-| Personal carbon footprint 2021 t/y | 4.9 | 4 |
+| Personal carbon footprint 2020 t/y | 4.9 | 4 |
+| Personal carbon footprint 2021 t/y |  | 4.2 |
 
 where the unit t/y corresponds to the ton of carbon per year.
 
