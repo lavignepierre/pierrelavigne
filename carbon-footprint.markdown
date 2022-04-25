@@ -1,7 +1,6 @@
 ---
 layout: page
-permalink: /Cf/
-published: false
+permalink: /Environment/Cf/
 ---
 ## My carbon footprint
 
