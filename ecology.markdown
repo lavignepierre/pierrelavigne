@@ -4,4 +4,4 @@ title: Environment
 permalink: /Environment/
 ---
 
-* My [carbon footprint](_posts/Cf/)
+* My [carbon footprint](../_posts/Cf/)
