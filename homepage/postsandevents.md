@@ -5,11 +5,15 @@ title: Events
 
 # Incoming events
 
-* March/April, [Fresque du climat](https://fresqueduclimat.org) at CMAP organized by the sustainable development commission.
+* 25-28 June, 2022: [19th International Symposium on Dynamic Games and Applications](https://www.gerad.ca/colloques/isdg2022/).
 
-* March 21-22, 15-th Financial international [risk forum](https://www.risks-forum.org).
+* May 31-June 2, 2022: [Climate finance, risk and uncertainty modelling](https://clifirium2022.sciencesconf.org).
 
 # Past events
+
+* April 12, 2022: [Fresque du climat](https://fresqueduclimat.org) at CMAP organized by the sustainable development commission.
+
+* March 21-22, 2022: 15-th Financial international [risk forum](https://www.risks-forum.org).
 
 * December 9, 2021: Organization of a sustainable development day at CMAP: see the [program](pdf-files/ProgrammeMatineeDD.pdf). Scientific work presented. Main topics: mathematics for energy systems, climate and green finance, biodiversity modeling. Also, the carbon footprint of the laboratory was presented.
 
