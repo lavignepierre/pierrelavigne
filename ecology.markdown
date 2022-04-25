@@ -14,7 +14,7 @@ permalink: /Environment/
 
 ## Personnal
 
-* My [carbon footprint](Environment/Cf/)
+* My [carbon footprint](/Cf/)
 
 ## Laboratories
 
