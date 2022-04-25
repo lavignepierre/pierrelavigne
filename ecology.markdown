@@ -14,4 +14,8 @@ permalink: /Environment/
 
 ## Personnal
 
-* My [carbon footprint](../Cf/)
+* My [carbon footprint](Environment/Cf/)
+
+## Laboratories
+
+* Sustainable development commission [CMAP](https://portail.polytechnique.edu/cmap/fr/le-laboratoire/commission-developpement-durable)
