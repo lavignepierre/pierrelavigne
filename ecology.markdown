@@ -4,4 +4,4 @@ title: Environment
 permalink: /Environment/
 ---
 
-* My [carbon footprint](pierrelavigne/Cf/)
+* My [carbon footprint](../Cf/)
