@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Carbon footprint
 permalink: /Cf/
 ---
 ## My carbon footprint
