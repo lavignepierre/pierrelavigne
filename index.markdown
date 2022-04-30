@@ -32,4 +32,4 @@ I work on mean field games theory and climate-finance.
 
 Mathematical fields of interests: mean field games and their numerical aspects, optimization, control theory.
 
-Other fields: carbon and ecological footprints, planetary boundaries, design of sustainable systems, climate sciences,  ecology and economics.
+Other fields: carbon and ecological footprints, planetary boundaries, design of sustainable systems, climate sciences, ecology and economics.
