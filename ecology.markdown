@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Environment
 permalink: /Environment/
 ---
@@ -14,7 +14,7 @@ permalink: /Environment/
 
 ## Personnal
 
-* My [carbon footprint](/Cf/)
+* My [carbon footprint](_posts/carbon-footprint.markdown)
 
 ## Laboratories
 
