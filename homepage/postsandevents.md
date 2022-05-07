@@ -5,7 +5,7 @@ title: Events
 
 # Incoming events
 
-* 25-28 June, 2022: [19th International Symposium on Dynamic Games and Applications](https://www.gerad.ca/colloques/isdg2022/).
+* 25-29 June, 2022: [19th International Symposium on Dynamic Games and Applications](https://www.gerad.ca/colloques/isdg2022/).
 
 * May 31-June 2, 2022: [Climate finance, risk and uncertainty modelling](https://clifirium2022.sciencesconf.org).
 
