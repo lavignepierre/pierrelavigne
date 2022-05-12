@@ -20,7 +20,7 @@ Defense 3 December 2021. Manuscrit available on [HAL](https://tel.archives-ouver
 
 2015-2016: [MIASHS](https://www.tse-fr.eu/fr/licence-3-economie-et-mathematiques) bachelor at [TSE](https://www.tse-fr.eu/fr).
 
-## Reviewer for:
+# Reviewer for:
 
 ESAIM: Mathematical Modelling and Numerical Analysis ([ESAIM: M2AN](https://www.esaim-m2an.org)).
 

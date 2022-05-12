@@ -26,6 +26,6 @@ Page under construction.
 
 * Application to see carbon content of electricity per country [electricitymap](https://app.electricitymap.org/map)
 
-* [Ourworldindata](https://ourworldindata.org) is a website where a lot of data analysis are provided. See the [Biodiversity](https://ourworldindata.org/biodiversity) and [Energy](https://ourworldindata.org/energy) sections. 
+* [Ourworldindata](https://ourworldindata.org)  is a website where lots of data analysis is provided. See the [Biodiversity](https://ourworldindata.org/biodiversity) and [Energy](https://ourworldindata.org/energy) sections.
 
 * [ICOS](https://www.icos-cp.eu/index.php/data-services) Integrated Carbon Observation System. A lot of data concerning emmisisons can be found on this page.
