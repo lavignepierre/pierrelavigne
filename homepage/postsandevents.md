@@ -5,11 +5,13 @@ title: Events
 
 # Incoming events
 
-* 25-29 June, 2022: [19th International Symposium on Dynamic Games and Applications](https://www.gerad.ca/colloques/isdg2022/).
-
-* May 31-June 2, 2022: [Climate finance, risk and uncertainty modelling](https://clifirium2022.sciencesconf.org).
+December 14-15, 2022: [7th Green Finance Research Advances](https://www.institutlouisbachelier.org/evenement/gfra-7-fr/)
 
 # Past events
+
+* June 25-29, 2022: [19th International Symposium on Dynamic Games and Applications](https://www.gerad.ca/colloques/isdg2022/).
+
+* May 31-June 2, 2022: [Climate finance, risk and uncertainty modelling](https://clifirium2022.sciencesconf.org).
 
 * April 12, 2022: [Fresque du climat](https://fresqueduclimat.org) at CMAP organized by the sustainable development commission.
 

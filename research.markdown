@@ -10,7 +10,7 @@ __Preprints :__
 
 * Generalized conditional gradient and learning in potential mean field games. J. Frédéric Bonnans, Pierre Lavigne and Laurent Pfeiffer. 2021. Available at [HAL](https://hal.archives-ouvertes.fr/hal-03341776).
 
-* Discrete potential mean field games. J. Frédéric Bonnans, Pierre Lavigne and Laurent Pfeiffer. 2021. Available at [Arxiv](https://arxiv.org/abs/2106.07463) and [HAL](https://hal.inria.fr/hal-03260057) with [Code](https://lavignepierre.github.io/Potential-MFG/Introduction.html).
+* Discrete potential mean field games: duality and numerical resolution. J. Frédéric Bonnans, Pierre Lavigne and Laurent Pfeiffer. 2021. Available at [Arxiv](https://arxiv.org/abs/2106.07463) and [HAL](https://hal.inria.fr/hal-03260057) with [Code](https://lavignepierre.github.io/Potential-MFG/Introduction.html).
 
 __Published article :__
 
