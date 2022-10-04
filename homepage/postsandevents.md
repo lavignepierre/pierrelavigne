@@ -5,7 +5,7 @@ title: Events
 
 # Incoming events
 
-December 14-15, 2022: [7th Green Finance Research Advances](https://www.institutlouisbachelier.org/evenement/gfra-7-fr/)
+December 14-15, 2022: [7th Green Finance Research Advances](https://www.institutlouisbachelier.org/evenement/gfra-7-fr/). To limit the carbon footprint of the conference, overseas participants and more generally those who cannot reach Paris by train within a reasonable amount of time, will be able to deliver their presentations online if they wish to do so.
 
 # Past events
 
