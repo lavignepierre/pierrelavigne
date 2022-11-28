@@ -24,6 +24,12 @@ Defense 3 December 2021. Manuscrit available on [HAL](https://tel.archives-ouver
 
 ESAIM: Mathematical Modelling and Numerical Analysis ([ESAIM: M2AN](https://www.esaim-m2an.org)).
 
+# Teaching
+
+2022 : TA for 3A ENSAE lecture of Pricing and hedging of financial derivatives (Prof. [Peter Tankov](https://sites.google.com/site/petertankov/)).
+
+2022 : TA for 2A ENSAE lecture of introduction to mathematical finance (Prof. [Peter Tankov](https://www.ceremade.dauphine.fr/~kharroubi/)).
+
 
 # Commitments
 
