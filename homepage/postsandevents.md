@@ -3,7 +3,9 @@ layout: page
 title: Events
 ---
 
+# Incoming event
 
+* April 4, 2022: Organization of a [Fresque du climat](https://fresqueduclimat.org) at Institut Louis Bachelier.
 
 
 # Past events

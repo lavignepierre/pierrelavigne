@@ -14,14 +14,14 @@ permalink: /Environment/
 
 * The [Stockholm Resilience center](https://www.stockholmresilience.org) is a research center working on the concept of resilience i.e. "the capacity of a system, be it an individual, a forest, a city or an economy, to deal with change and continue to develop". The seminal publication about planetary boundaries can be found [here](https://www.nature.com/articles/461472a).
 
-*  The [NGFS](https://www.ngfs.net/en/liste-chronologique/ngfs-publications) is a research group that to help strengthening the global response required to meet the goals of the Paris agreement and to enhance the role of the financial system to manage risks and to mobilize capital for green and low-carbon investments in the broader context of environmentally sustainable development.
+*  The [NGFS](https://www.ngfs.net/en/liste-chronologique/ngfs-publications) is a research group which aim at strengthening the global response required to meet the goals of the Paris agreement and to enhance the role of the financial system to manage risks and to mobilize capital for green and low-carbon investments in the broader context of environmentally sustainable development.
 
 
 ## Reports
 
-* [IPBES](https://ipbes.net/global-assessment)
+* [IPBES](https://ipbes.net/global-assessment) Main report on biodiversity and ecosystemic services and its impact on human well-being.  
 
-* [IPCC](https://www.ipcc.ch/reports/)
+* [IPCC](https://www.ipcc.ch/reports/) Main report on climate change, its causes, potential impacts and response options.
 
 ## Data and applications
 
