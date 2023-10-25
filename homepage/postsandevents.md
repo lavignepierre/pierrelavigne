@@ -5,10 +5,18 @@ title: Events
 
 # Incoming event
 
-* April 4, 2022: Organization of a [Fresque du climat](https://fresqueduclimat.org) at Institut Louis Bachelier.
+* January 22-26, 2024: PDE & Probability in interaction: functional inequalities, optimal transport and particle systems conference at [CIRM](https://conferences.cirm-math.fr/2988.html).
+
+* November 28-29, 2023: [PGMO](https://smf.emath.fr/evenements-smf/pgmo-days-2023) days at Palaiseau.
 
 
 # Past events
+
+* September 22, 2023: Organization of a [Fresque du climat](https://fresqueduclimat.org) at "Journées de rentrée" of [Fime](https://www.fime-lab.org/en/home/).
+
+* September 13-14, 2023: [Fime](https://www.fime-lab.org/en/home/) workshop.
+
+* April 4, 2023: Organization of a [Fresque du climat](https://fresqueduclimat.org) at Institut Louis Bachelier.
 
 * December 14-15, 2022: [7th Green Finance Research Advances](https://www.institutlouisbachelier.org/evenement/gfra-7-fr/). To limit the carbon footprint of the conference, overseas participants and more generally those who cannot reach Paris by train within a reasonable amount of time, will be able to deliver their presentations online if they wish to do so.
 
