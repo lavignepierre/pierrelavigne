@@ -6,7 +6,9 @@ permalink: /cv/
 
 # Position
 
-2022-2023: Postdoctoral position at [Institut Louis Bachelier](https://www.institutlouisbachelier.org) under the supervision of [Peter Tankov](https://sites.google.com/site/petertankov/). Subject : Mean field games and applications to climate-finance.
+2023-: Postdoctoral position at [Université Côte d'Azur](https://univ-cotedazur.fr) under the supervision of [François Delarue](https://math.univ-cotedazur.fr/~delarue/). Subject: Programming, Scientific Computing and Learning for Mean Field Models.
+
+2022-2023: Postdoctoral position at [Institut Louis Bachelier](https://www.institutlouisbachelier.org) under the supervision of [Peter Tankov](https://sites.google.com/site/petertankov/). Subject: Mean field games and applications to climate-finance.
 
 
 # Academics
