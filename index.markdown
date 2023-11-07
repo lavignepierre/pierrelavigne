@@ -18,9 +18,9 @@ margin: 0px 20px;
 <img alt = "Photo de profil." src="images/photo-pierre.jpg" alt="Example" width = "140"
 height = "140">
 <p>
-<a href ="https://www.institutlouisbachelier.org"> Institut Louis Bachelier </a> <br>
-  28 Place de la Bourse, 75002 Paris <br>
-  France <br>
+<a href ="https://univ-cotedazur.fr"> Université Côte d'Azur </a> <br>
+ <a href ="https://univ-cotedazur.fr/laboratoires/laboratoire-jean-alexandre-dieudonne-ljad"> Laboratoire Jean Alexandre Dieudonné </a> <br>
+   <br>
 </p>
 </div>
 
