@@ -27,8 +27,7 @@ height = "140">
 <br>
 <br>
 
-I am a postdoctoral researcher at Institut Louis Bachelier.
-I work on mean field games theory and climate-finance.
+I am a postdoctoral researcher at Université Côte d'Azur.
 
 Mathematical fields of interests: mean field games and their numerical aspects, optimization, control theory.
 
