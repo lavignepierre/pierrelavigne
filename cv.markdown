@@ -13,7 +13,7 @@ permalink: /cv/
 
 # Academics
 
-2018-2021: Phd student in the team [COMMANDS](https://portail.polytechnique.edu/cmap/fr/recherche/commands) under the supervision of [J. Frédéric Bonnans](http://www.cmap.polytechnique.fr/~bonnans/) and [Laurent Pfeiffer](https://laurentpfeiffer.github.io) at [CMAP](http://www.cmap.polytechnique.fr). [ École Polytechnique](https://www.polytechnique.edu) and [IPP](https://www.ip-paris.fr). Doctoral school [EDMH](https://www.universite-paris-saclay.fr/ecoles-doctorales/ecole-doctorale-de-mathematiques-hadamard-edmh). <br>
+2018-2021: Phd student in the team COMMANDS under the supervision of [J. Frédéric Bonnans](http://www.cmap.polytechnique.fr/~bonnans/) and [Laurent Pfeiffer](https://laurentpfeiffer.github.io) at CMAP. [École Polytechnique](https://www.polytechnique.edu) and [IPP](https://www.ip-paris.fr). Doctoral school [EDMH](https://www.universite-paris-saclay.fr/ecoles-doctorales/ecole-doctorale-de-mathematiques-hadamard-edmh). <br>
 Thesis title : Mean field games: numerical methods and case of risk-averse agents. <br>
 Defense 3 December 2021. Manuscrit available on [HAL](https://tel.archives-ouvertes.fr/tel-03556749).
 
@@ -62,6 +62,8 @@ Ines Abdessalem and Anastasia Milllevoye : “Développement de maisons contain
 
 
 # Presentations 
+
+2024: [SPOC](https://math.u-bourgogne.fr/statistique-probabilites-optimisation-et-controle) seminar (Dijon).
 
 2023: [Elisa](https://math.unice.fr/~delarue/ERC_Seminar.html) seminar (Nice).
 

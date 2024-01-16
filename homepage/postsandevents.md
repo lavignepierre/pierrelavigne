@@ -7,14 +7,13 @@ title: Events
 
 * January 22-26, 2024: PDE & Probability in interaction: functional inequalities, optimal transport and particle systems conference at [CIRM](https://conferences.cirm-math.fr/2988.html).
 
+
+# Past events
+
 * December 18-22, 2023: Mean field interactions with singular kernels and their approximations conference at 
 [IHP](https://math.maths.univ-evry.fr/Mckean2023/Home.html).
 
-
 * November 28-29, 2023: [PGMO](https://www.fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/home/pgmo-days/) days at Palaiseau.
-
-
-# Past events
 
 * September 22, 2023: Organization of a [Fresque du climat](https://fresqueduclimat.org) at "Journées de rentrée" of [Fime](https://www.fime-lab.org/en/home/).
 
