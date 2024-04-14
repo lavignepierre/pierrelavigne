@@ -3,12 +3,11 @@ layout: page
 title: Events
 ---
 
-# Incoming event
+# Past events
+
+* April 14, 2024: [Text](pdf-files/temoignage.pdf) about verbal abuse at work (in French).
 
 * January 22-26, 2024: PDE & Probability in interaction: functional inequalities, optimal transport and particle systems conference at [CIRM](https://conferences.cirm-math.fr/2988.html).
-
-
-# Past events
 
 * December 18-22, 2023: Mean field interactions with singular kernels and their approximations conference at 
 [IHP](https://math.maths.univ-evry.fr/Mckean2023/Home.html).
