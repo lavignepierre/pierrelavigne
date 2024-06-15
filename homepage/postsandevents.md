@@ -3,7 +3,15 @@ layout: page
 title: Events
 ---
 
+# Incoming events
+
+* July 2-4, 2024: Rough path, [conference](https://trag2024.sciencesconf.org/?lang=fr) organized in Nice.
+
+
+* June 17-19, 2024: A backward stochastic excursion, [conference](https://www.lebesgue.fr/fr/BSEYing) in honor of Ying Hu, Rennes.
+
 # Past events
+
 
 * April 14, 2024: [Text](pdf-files/temoignage.pdf) about verbal abuse at work (in French).
 

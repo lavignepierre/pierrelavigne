@@ -4,6 +4,12 @@ title: Environment
 permalink: /Environment/
 ---
 
+## Articles and news
+
+* April 24, 2024: [La transition bas carbone du CNRS avance](https://www.cnrs.fr/fr/actualite/la-transition-bas-carbone-du-cnrs-avance), CNRS.
+
+* November 15, 2022: [Labos 1point5, vers la réduction de l'impact des activités de recherche scientifique sur l'environnement](https://www.inria.fr/fr/labos-1point5-collectif-reduction-impact-recherche-environnement), INRIA.
+
 ## Reaserch groups
 
 * [GSF](https://gsf.institutlouisbachelier.org): Reaserch group in the field of green and sustainable finance, hosted by ILB.
@@ -17,7 +23,7 @@ permalink: /Environment/
 *  The [NGFS](https://www.ngfs.net/en/liste-chronologique/ngfs-publications) is a research group which aim at strengthening the global response required to meet the goals of the Paris agreement and to enhance the role of the financial system to manage risks and to mobilize capital for green and low-carbon investments in the broader context of environmentally sustainable development.
 
 
-## Reports
+## Scientific reports
 
 * [IPBES](https://ipbes.net/global-assessment) Main report on biodiversity and ecosystemic services and its impact on human well-being.  
 
