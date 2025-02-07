@@ -3,6 +3,10 @@ layout: page
 title: Events
 ---
 
+# Incoming events
+
+* May 19-23, 2025: Conference in Honor of René Carmona, organized at [CIRM](https://conferences.cirm-math.fr/3238.html)
+
 
 # Past events
 
