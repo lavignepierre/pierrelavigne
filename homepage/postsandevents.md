@@ -5,12 +5,14 @@ title: Events
 
 # Incoming events
 
+* November 18-19, 2025: [PGMO](https://www.fondation-hadamard.fr/en/our-programs/thematic-programs/pgmohome/pgmodays/) days at Palaiseau.
+
 *  September  11-13,  2025: Annual [conference](https://sites.google.com/disei.unifi.it/amases2025/home) of the Italian Association for Mathematics Applied
 to Social and Economic Sciences, organized in Florence.  
 
-* June 23-26, 2025: [Workshop](https://sites.google.com/nyu.edu/mfgotmlworkshop2025) on Mean Field Games, Optimal Transport and Machine Learning, organized in Paris.
-
 # Past events
+
+* June 23-26, 2025: [Workshop](https://sites.google.com/nyu.edu/mfgotmlworkshop2025) on Mean Field Games, Optimal Transport and Machine Learning, organized in Paris.
 
 * May 19-23, 2025: Conference in Honor of René Carmona, organized at [CIRM](https://conferences.cirm-math.fr/3238.html).
 
@@ -18,9 +20,7 @@ to Social and Economic Sciences, organized in Florence.
 
 * July 2-4, 2024: Rough path, [conference](https://trag2024.sciencesconf.org/?lang=fr) organized in Nice.
 
-
 * June 17-19, 2024: A backward stochastic excursion, [conference](https://www.lebesgue.fr/fr/BSEYing) in honor of Ying Hu, Rennes.
-
 
 * April 14, 2024: [Text](pdf-files/temoignage.pdf) about verbal abuse at work (in French).
 
