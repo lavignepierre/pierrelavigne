@@ -29,6 +29,4 @@ height = "140">
 
 I am a postdoctoral researcher at Université Côte d'Azur.
 
-Mathematical fields of interests: mean field games and their numerical aspects, optimization, control theory.
-
-Other fields: carbon and ecological footprints, planetary boundaries, design of sustainable systems, climate sciences, ecology and economics.
+Mathematical fields of interests: mean field control, mean field games, numerical methods, optimization, probability.

@@ -3,14 +3,13 @@ layout: page
 title: Events
 ---
 
-# Incoming events
+
+# Past events
 
 * November 18-19, 2025: [PGMO](https://www.fondation-hadamard.fr/en/our-programs/thematic-programs/pgmohome/pgmodays/) days at Palaiseau.
 
 *  September  11-13,  2025: Annual [conference](https://sites.google.com/disei.unifi.it/amases2025/home) of the Italian Association for Mathematics Applied
-to Social and Economic Sciences, organized in Florence.  
-
-# Past events
+to Social and Economic Sciences, organized in Florence.
 
 * June 23-26, 2025: [Workshop](https://sites.google.com/nyu.edu/mfgotmlworkshop2025) on Mean Field Games, Optimal Transport and Machine Learning, organized in Paris.
 
