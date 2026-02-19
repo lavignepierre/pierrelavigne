@@ -8,9 +8,9 @@ permalink: /research/
 
 __Preprints :__
 
-* Robust mean-field games under entropy-based uncertainty. François Delarue et Pierre Lavigne, 2026. [Article](homepage/pdf-files/Robust-MFG.pdf)
+* Robust mean-field games under entropy-based uncertainty. François Delarue et Pierre Lavigne, 2026. [Article](homepage/pdf-files/Robust-MFG.pdf).
 
-* Robust mean field control: stochastic maximum principle and variational mean field games. François Delarue et Pierre Lavigne, 2026. [Article](homepage/pdf-files/Robust-MFC.pdf)
+* Robust mean field control: stochastic maximum principle and variational mean field games. François Delarue et Pierre Lavigne, 2026. [Article](homepage/pdf-files/Robust-MFC.pdf).
 
 
 * Growth model with externalities for energetic transition via MFG with common external variable. Pierre Lavigne, Quentin Petit, Xavier Warin. 2025. [Arxiv](https://arxiv.org/pdf/2501.11988).
