@@ -3,6 +3,9 @@ layout: page
 title: Events
 ---
 
+# Incoming events
+
+* March 18-20, 2026: [Journées SMAI-MODE 2026](https://mode2026.sciencesconf.org) at Nice.
 
 # Past events
 
