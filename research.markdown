@@ -8,7 +8,7 @@ permalink: /research/
 
 __Preprints :__
 
-* Robust mean-field games under entropy-based uncertainty. François Delarue et Pierre Lavigne, 2026. [Article](homepage/pdf-files/Robust-MFG.pdf).
+* Robust mean-field games under entropy-based uncertainty. François Delarue et Pierre Lavigne, 2026. [Article](homepage/pdf-files/Robust-MFG.pdf), [HAL](https://hal.science/hal-05556781v1/document).
 
 * Robust mean field control: stochastic maximum principle and variational mean field games. François Delarue et Pierre Lavigne, 2026. [Article](homepage/pdf-files/Robust-MFC.pdf), [HAL](https://hal.science/hal-05531353/document).
 
