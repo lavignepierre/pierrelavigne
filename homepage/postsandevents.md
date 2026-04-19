@@ -5,9 +5,11 @@ title: Events
 
 # Incoming events
 
-* March 18-20, 2026: [Journées SMAI-MODE 2026](https://mode2026.sciencesconf.org) at Nice.
+* June 22-25, 2026: [Workshop](https://sites.google.com/view/workshopbolzanojune22-252026/) on Mean-field models, Optimal Control and Applications in Economics and Social Sciences, Bolzano, Italy.
 
 # Past events
+
+* March 18-20, 2026: [Journées SMAI-MODE 2026](https://mode2026.sciencesconf.org) at Nice.
 
 * November 18-19, 2025: [PGMO](https://www.fondation-hadamard.fr/en/our-programs/thematic-programs/pgmohome/pgmodays/) days at Palaiseau.
 
