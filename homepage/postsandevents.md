@@ -7,6 +7,8 @@ title: Events
 
 * June 22-25, 2026: [Workshop](https://sites.google.com/view/workshopbolzanojune22-252026/) on Mean-field models, Optimal Control and Applications in Economics and Social Sciences, Bolzano, Italy.
 
+* May 28-29, 2026: [Workshop](https://www.amse-aixmarseille.fr/fr/evenements/workshop-climate-change-lessons-past-and-contemporary-challenges) on Climate change: lessons from the past and contemporary challenges, Marseille, France. 
+
 # Past events
 
 * March 18-20, 2026: [Journées SMAI-MODE 2026](https://mode2026.sciencesconf.org) at Nice.
