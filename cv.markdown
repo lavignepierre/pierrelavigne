@@ -27,6 +27,10 @@ Defense 3 December 2021. Manuscrit available on [HAL](https://tel.archives-ouver
 
 # Reviewer for:
 
+[AMM](https://www.sciencedirect.com/journal/applied-mathematical-modelling): Applied Mathematical Modelling.
+
+[AMOP](https://link.springer.com/journal/245): Applied Mathematics and Optimization.
+
 [ESAIM: M2AN](https://www.esaim-m2an.org): Mathematical Modelling and Numerical Analysis.
 
 [SICON](https://sicon.siam.org/cgi-bin/main.plex): SIAM Journal on Control and Optimization.
@@ -43,7 +47,6 @@ Defense 3 December 2021. Manuscrit available on [HAL](https://tel.archives-ouver
 2023: Co-organizer of the [7th GFRA](https://www.institutlouisbachelier.org/evenement/gfra-7-fr/) conference (Banque de France, Paris).
 
 2020-2022: Fellow of the ecologic transition commission of [CMAP](http://www.cmap.polytechnique.fr). Realization of the 2019 carbon footprint of CMAP via the online tool [Labos1point5](https://labos1point5.org). Organization of a sustainable development day 9/12/2021: see the [program](pdf-files/ProgrammeMatineeDD.pdf).
-
 
 
 2020: Co-organizer and member of the scientific council of the first young researchers congress in applied mathematics ([CJC-MA](https://cjc-ma2021.github.io)).
